@@ -1,74 +1,74 @@
 {
-  "i18n-action-center": "Action Center",
+  "i18n-action-center": "Centro de ação",
 
   "i18n-intro": "<strong>Opt out of PRISM, the NSA&rsquo;s global data surveillance program.</strong> Stop reporting your online activities to the American government with these free alternatives to proprietary software.",
 
 
 
-  "i18n-operating-system" : "Operating system",
-  "i18n-gnulinux-desc": "Free, open source operating system.",
+  "i18n-operating-system" : "Sistema operacional",
+  "i18n-gnulinux-desc": "Sistema operacional grátis e open source.",
   "i18n-debian-desc": "Popular ethical GNU/Linux distribution.",
   "i18n-bsd-desc": "FreeBSD, OpenBSD, NetBSD, PC-BSD.",
   "i18n-tails-desc": "Live CD/USB designed for privacy.",
 
 
 
-  "i18n-web-browser": "Web browser",
-  "i18n-icecat-desc": "GNU version of Firefox.",
-  "i18n-firefox-desc": "Open source web browser.",
-  "i18n-torbrowser-desc": "Encrypted, anonymous browsing.",
+  "i18n-web-browser": "Navegador",
+  "i18n-icecat-desc": "Versão GNU do Firefox.",
+  "i18n-firefox-desc": "Navegador open source.",
+  "i18n-torbrowser-desc": "Navegação criptografada e anônima.",
 
 
 
-  "i18n-web-browser-plugins": "Web browser plugins",
-  "i18n-httpseverywhere-desc": "Encrypts your communications thousands of websites.",
-  "i18n-fixtracking-desc": "Guide to stop getting tracked online.",
-  "i18n-torbutton-desc": "Tor plugin for IceCat and Firefox.",
+  "i18n-web-browser-plugins": "Plugins de navegador",
+  "i18n-httpseverywhere-desc": "Criptografa suas comunicações em milhares de sites.",
+  "i18n-fixtracking-desc": "Guia para parar de ser rastreado online.",
+  "i18n-torbutton-desc": "Plugin Tor para IceCat e Firefox.",
 
 
 
-  "i18n-web-search": "Web search",
-  "i18n-duckduckgo-desc": "Anonymous, unlogged web searches.",
-  "i18n-startpage-desc": "Private, unlogged web searches.",
-  "i18n-seeksproject-desc": "Open decentralized platform for collaborative search.",
-  "i18n-yacy-desc": "Decentralized web search.",
+  "i18n-web-search": "Buscas online",
+  "i18n-duckduckgo-desc": "Buscas online anônimas e sem registro.",
+  "i18n-startpage-desc": "Buscas online privadas e sem registro.",
+  "i18n-seeksproject-desc": "Plataforma aberta e descentralizada para busca colaborativa.",
+  "i18n-yacy-desc": "Buscas online descentralizadas.",
 
 
 
-  "i18n-online-transactions": "Online transactions",
-  "i18n-bitcoin-desc": "P2P digital currency with no central authority.",
+  "i18n-online-transactions": "Transações online",
+  "i18n-bitcoin-desc": "Moeda digital P2P sem nenhuma autoridade central.",
 
 
 
-  "i18n-email-services": "Email services",
-  "i18n-bitmessage-desc": "Encrypted, decentralized email server.",
-  "i18n-riseup-desc": "Secure and private email accounts.",
+  "i18n-email-services": "Serviços de email",
+  "i18n-bitmessage-desc": "Servidor de email descentralizado e criptografado.",
+  "i18n-riseup-desc": "Contas de email seguras e privadas.",
 
 
 
   "i18n-email-clients": "Email desktop clients",
-  "i18n-icedove-desc": "Free version of Mozilla Thunderbird.",
-  "i18n-thunderbird-desc": "Open source email application.",
+  "i18n-icedove-desc": "Versão grátis de Mozilla Thunderbird.",
+  "i18n-thunderbird-desc": "Aplicaçõs de email open source.",
 
 
 
-  "i18n-email-encryption": "Email encryption",
-  "i18n-enigmail-desc": "An OpenPGP plugin for Thunderbird/Icedove.",
-  "i18n-gnuprivacyguard-desc": "Free OpenPGP implementation.",
-  "i18n-mailvelope-desc": "OpenPGP encryption for webmail.",
-  "i18n-webpg-desc": "GnuPG/PGP in your browser.",
+  "i18n-email-encryption": "Criptografia de email",
+  "i18n-enigmail-desc": "Um plugin OpenPGP para Thunderbird/Icedove.",
+  "i18n-gnuprivacyguard-desc": "Implentação OpenPGP grátis.",
+  "i18n-mailvelope-desc": "Criptografia OpenPGP para webmail.",
+  "i18n-webpg-desc": "GnuPG/PGP no seu navegador.",
 
 
 
-  "i18n-maps": "Maps",
+  "i18n-maps": "Mapas",
   "i18n-openstreetmap-desc": "Free, collaborative world wide map.",
 
 
 
-  "i18n-cloud-storage": "Cloud storage",
-  "i18n-owncloud-desc": "Cloud data in your control.",
+  "i18n-cloud-storage": "Armazenamento na nuvem",
+  "i18n-owncloud-desc": "Armazenamento na nuvem sob seu controle.",
   "i18n-sparkleshare-desc": "Self-hosted version control and file sync.",
-  "i18n-tahoelafs-desc": "Free and open cloud storage system.",
+  "i18n-tahoelafs-desc": "Sistema de armazenamento na nuvem grátis e livre.",
 
 
 
@@ -120,8 +120,8 @@
   "i18n-csipsimple-desc": "Free, encrypted VOIP for Android.",
   "i18n-cyanogenmod-desc": "Aftermarket firmware for Android phones.",
   "i18n-gibberbot-desc": "Private, secure OTR messaging for Android.",
-  "i18n-orbot-desc": "Tor proxy for Android.",
-  "i18n-redphone-desc": "Secure private calls for Android.",
+  "i18n-orbot-desc": "Proxy Tor para Android.",
+  "i18n-redphone-desc": "Ligações seguras e privadas para Android.",
   "i18n-replicant-desc": "Fully free Android distribution.",
   "i18n-textsecure-desc": "Secure SMS/MMS communication for Android.",
 
@@ -132,9 +132,9 @@
 
 
 
-  "i18n-add": "add",
+  "i18n-add": "adicionar",
   "i18n-mostly-free": "mostly free*",
-  "i18n-advanced": "advanced",
+  "i18n-advanced": "avançado",
   "i18n-partly-proprietary": "partly proprietary*",
   "i18n-proprietary": "proprietary*",
   "i18n-invite-only": "invite-only",
@@ -148,21 +148,21 @@
 
 
 
-  "i18n-media-title": "Mentioned by the media.",
-  "i18n-dutch": "Dutch",
-  "i18n-english": "English",
-  "i18n-french": "French",
-  "i18n-german": "German",
-  "i18n-polish": "Polish",
+  "i18n-media-title": "Mencionado na mídia.",
+  "i18n-dutch": "Holandês",
+  "i18n-english": "Inglês",
+  "i18n-french": "Francês",
+  "i18n-german": "Alemão",
+  "i18n-polish": "Polandês",
 
 
 
-  "i18n-updated": "Updated",
-  "i18n-by": "by",
-  "i18n-contribute-on": "Contribute on",
-  "i18n-donate": "Donate",
+  "i18n-updated": "Atualizado",
+  "i18n-by": "por",
+  "i18n-contribute-on": "Contribua em",
+  "i18n-donate": "Doe",
 
 
 
-  "i18n-footer-disclaimer": "Disclaimer: This website supports the Electronic Frontier Foundation (EFF) and the Free Software Foundation (FSF), but is not officially endorsed by either."
+  "i18n-footer-disclaimer": "Aviso: este site apóia a Fundação Fronteira Eletrônica (Electronic Frontier Foundation, EFF) e a Fundação Software Livre (Free Software Foundation, FSF), mas não é oficialmente endossada por nenhuma delas."
 }
